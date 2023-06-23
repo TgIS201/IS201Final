@@ -5,7 +5,7 @@ body {
 }
 
 .common{
-    background-color: rgb(121, 93, 65);
+    background-color: rgb(200, 153, 107);
     border: 2px solid white;
     position: absolute;
 }
@@ -45,7 +45,7 @@ body {
     font-size: 15px;
     top: 314px;
     left: 5px;
-    bottom: 284px;
+    bottom: -100px;
     width: 100px;
     text-align: center;
     padding-top: 10px;
@@ -63,7 +63,7 @@ body {
 
 .footer {
     position: fixed;
-    color: rgb(211, 211, 211);
+    color: rgb(0, 0, 0);
     bottom: 0px;
     right: 5px;
     left: 5px;
@@ -91,7 +91,7 @@ a:visited {
     font-size: 15px;
     color: rgb(0, 0, 0);
     }
-    
+
 a:any-link {
     color: rgb(0, 0, 0);
 }
